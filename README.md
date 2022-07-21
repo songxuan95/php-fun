@@ -18,8 +18,8 @@ use SongXuan\PhpFun;
 echo PhpFun::uuid32($len);
 
 //手机号正则
-//$phone 手机号
-echo PhpFun::isPhone($phone);
+//$phone 手机
+var_dump(PhpFun::isPhone($phone));
 
 ```
 
