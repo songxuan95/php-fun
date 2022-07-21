@@ -21,5 +21,8 @@ echo PhpFun::uuid32($len);
 //$phone 手机号
 echo PhpFun::isPhone($phone);
 
-
 ```
+
+## 更多方法
+
+> https://www.kancloud.cn/sx555/php-fun/3028937
