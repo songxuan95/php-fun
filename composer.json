@@ -1,0 +1,22 @@
+{
+    "name": "songxuan/php-fun",
+    "description": "PHP Common Functions",
+    "keywords": [
+        "php"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "songxuan",
+            "email": "1668325326@qq.com"
+        }        
+    ],
+    "require": {
+        "php": ">=7.0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "SongXuan\\": "src/"
+        }
+    }
+}
