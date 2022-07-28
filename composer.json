@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SongXuan\\": "src/"
+            "SongXuan\\": "src/SongXuan"
         }
     }
 }
